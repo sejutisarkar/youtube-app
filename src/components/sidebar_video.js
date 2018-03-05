@@ -1,6 +1,6 @@
 import React from "react";
 import sidebarVideos from "./sidebar_list.js";
-import Dodo from "./Dodo";
+import Dodo from "./dodo";
 
 class Sidebar extends React.Component {
 	render() {
